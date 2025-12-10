@@ -77,24 +77,12 @@ The project focuses on **bioacoustic classification** using **Convolutional Recu
 > Cornell Lab of Ornithology, 2023.
 
 ---
-
-### **Citation**
-
-If you use this code or its results, please cite:
-
-> Vijay H. Kalmani, *et al.*
-> **“Automated Bird Species Identification Using Deep Learning: A Convolutional Recurrent Neural Network (CRNN) Approach to Analysing Avian Vocalizations”**
-> *(Manuscript under review, 2025)*
-
-
----
-
+ 
 ###  **Acknowledgements**
 
 * **Cornell Lab of Ornithology** for providing BirdCLEF datasets.
 * **Google Colab Pro+** for computational resources.
-* **Reviewers of *Ostrich*** for valuable feedback improving the methodology.
-
+ 
 ---
 
 ###  **Requirements**
